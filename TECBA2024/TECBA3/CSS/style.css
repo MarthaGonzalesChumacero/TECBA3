@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(110, 228, 241);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(10, 11, 11);
+    background-color: rgb(18, 219, 219);
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    margin: 50px;
+    padding: 30PX;
+}
+
+.navegador{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-size: 25px;
+    color: rgb(15, 15, 14);
+    text-align: justify;
+}
+h2{
+    font-size: 25px;
+    color: rgb(22, 22, 21) ;
+    background-color: #140000;
+}
+
